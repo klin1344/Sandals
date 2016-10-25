@@ -1,3 +1,6 @@
+Created at HackRice 2016.
+
+
 # Sandals
 Sandals help users interact within different social groups, including family, friends, and peers.
 
